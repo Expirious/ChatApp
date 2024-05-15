@@ -1,0 +1,1 @@
+Open 2 terminals, in the first one go to the "backend" directory and execute "npm start run". In the second terminal go to the "frontend" directory and execute "npm run dev", then go to the "http://localhost:5173".
